@@ -19,6 +19,7 @@ public class Refresher {
         //methods.printProgram(); // prints the word program in a crossed fashion
         //methods.reverseMatrix();
         //methods.pangram();
+        System.out.println("Testing push");
         methods.isTriangle();
  }
 }
